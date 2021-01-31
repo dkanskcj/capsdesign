@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.preference.PreferenceFragment xmlns:android="http://schemas.android.com/apk/res/android">
+    <SwitchPreference
+        android:key="vibrate"
+        android:title="진동알림"
+        android:summary="메시지 진동 알림 체크"/>
+
+    <CheckBoxPreference
+        android:key="message"
+        android:title="소리 설정"
+        android:summary="소리로 알림 받기"/>
+
+</android.preference.PreferenceFragment>

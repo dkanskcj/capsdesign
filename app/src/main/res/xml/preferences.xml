@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+
+
 <!--    차단 강도 설정-->
 <!--    <ListPreference-->
 <!--        android:key="blocking"-->
 <!--        android:title="차단 강도"-->
 <!--        android:summary="차단 강도를 설정합니다."-->
-<!--        android:entries=""/>-->
+<!--        android:entries="List"/>-->
 
-    <!--백그라운드 실행-->
+<!--    백그라운드 실행-->
 <!--    <SwitchPreference-->
 <!--        android:defaultValue="false"-->
 <!--        android:key="switch_preference_1"-->
